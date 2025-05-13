@@ -17,42 +17,42 @@ function Book() {
   };
 
   return (
-    <ul className=" grid-container py-4 font-normal text-xl m-auto gap-7">
+    <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 py-4">
       {filter.bookList.map((lib) => (
         <li
           key={lib.book.title}
-          className=" text-white cursor-pointer w-full flex flex-col gap-3 items-center bg-slate-800/10 ring-1 ring-slate-700 hover:ring-slate-500 hover:shadow-lg hover:shadow-slate-900"
+          className="bg-slate-800/30 rounded-xl overflow-hidden border border-slate-700/50 hover:border-indigo-500/50 transition-all duration-300 hover:shadow-lg hover:shadow-indigo-500/10 group"
         >
-          <div className=" w-[250px]">
+          <div className="aspect-[3/4] relative overflow-hidden">
             <Image
               src={lib.book.cover}
               alt={lib.book.synopsis}
-              width={300}
-              height={50}
-              className=" mx-auto py-2"
+              fill
+              className="object-cover object-center transform group-hover:scale-105 transition-transform duration-300"
             />
           </div>
-          <div className=" w-full h-1/2 flex flex-col justify-center items-center pb-3">
-            <div className=" w-[300px] flex flex-col justify-center items-center gap-2 pb-3">
-              <p className=" tracking-tighter text-balance text-center">
-                <b>{lib.book.title}</b>
-              </p>
-              <p>
-                {lib.book.author.name} - <span>{lib.book.year}</span>
+          <div className="p-4 space-y-4">
+            <div className="space-y-2">
+              <h3 className="font-semibold text-lg text-white line-clamp-2 hover:line-clamp-none transition-all duration-300">
+                {lib.book.title}
+              </h3>
+              <p className="text-slate-400 text-sm">
+                {lib.book.author.name} • {lib.book.year}
               </p>
             </div>
-            <div className=" flex flex-col items-center justify-center tracking-tight gap-3">
+            <div className="flex items-center justify-between">
               <button
-                className=" bg-slate-950 text-white font-semibold rounded-lg p-3"
                 onClick={() => handleAddClick(lib.book.title)}
+                className="flex items-center gap-2 px-4 py-2 bg-indigo-500/20 hover:bg-indigo-500/30 text-indigo-300 rounded-lg transition-colors duration-200"
               >
-                <ShoppingBag />
+                <ShoppingBag className="w-4 h-4" />
+                <span className="text-sm font-medium">Add to List</span>
               </button>
-              <b className=" text-xl text-white font-thin">
-                {selectedBooks.find((b) => b.book.title === lib.book.title)
-                  ? "On reading list "
-                  : ""}
-              </b>
+              {selectedBooks.find((b) => b.book.title === lib.book.title) && (
+                <span className="text-sm font-medium text-indigo-400 bg-indigo-500/10 px-3 py-1 rounded-full">
+                  In List
+                </span>
+              )}
             </div>
           </div>
         </li>
