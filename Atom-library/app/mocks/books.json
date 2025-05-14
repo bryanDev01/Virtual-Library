@@ -1,63 +1,60 @@
 {
   "library": [
-      {
-          "book": {
-              "title": "El Señor de los Anillos",
-              "pages": 1200,
-              "genre": "Fantasy",
-              "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566425108i/33.jpg",
-              "synopsis": "Una aventura épica en un mundo de Fantasy llamado la Tierra Media.",
-              "year": 1954,
-              "ISBN": "978-0618640157",
-              "author": {
-                  "name": "J.R.R. Tolkien",
-                  "otherBooks": [
-                      "El Hobbit",
-                      "El Silmarillion"
-                  ]
-              }
-          }
-      },
-      {
-        "book": {
-            "title": "Juego de Tronos",
-            "pages": 694,
-            "genre": "Fantasy",
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1273763400i/8189620.jpg",
-            "synopsis": "En un reino donde las estaciones duran años, una batalla épica por el trono se desarrolla.",
-            "year": 1996,
-            "ISBN": "978-0553103540",
-            "author": {
-                "name": "George R. R. Martin",
-                "otherBooks": [
-                    "Choque de Reyes",
-                    "Tormenta de Espadas",
-                    "Festín de Cuervos"
-                ]
-            }
+    {
+      "book": {
+        "title": "El Señor de los Anillos",
+        "pages": 1200,
+        "genre": "Fantasy",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566425108i/33.jpg",
+        "synopsis": "Una aventura épica en un mundo de Fantasy llamado la Tierra Media.",
+        "year": 1954,
+        "ISBN": "978-0618640157",
+        "author": {
+          "name": "J.R.R. Tolkien",
+          "otherBooks": ["El Hobbit", "El Silmarillion"]
         }
+      }
     },
     {
       "book": {
-          "title": "Harry Potter y la piedra filosofal",
-          "pages": 223,
-          "genre": "Fantasy",
-          "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550337333i/15868.jpg",
-          "synopsis": "Un niño descubre que es un mago y comienza una aventura en una escuela de magia.",
-          "year": 1997,
-          "ISBN": "978-0747532699",
-          "author": {
-              "name": "J.K. Rowling",
-              "otherBooks": [
-                  "Harry Potter y la cámara secreta",
-                  "Harry Potter y el prisionero de Azkaban",
-                  "Harry Potter y el cáliz de fuego"
-              ]
-          }
+        "title": "Juego de Tronos",
+        "pages": 694,
+        "genre": "Fantasy",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1273763400i/8189620.jpg",
+        "synopsis": "En un reino donde las estaciones duran años, una batalla épica por el trono se desarrolla.",
+        "year": 1996,
+        "ISBN": "978-0553103540",
+        "author": {
+          "name": "George R. R. Martin",
+          "otherBooks": [
+            "Choque de Reyes",
+            "Tormenta de Espadas",
+            "Festín de Cuervos"
+          ]
+        }
       }
-  },
-  {
-    "book": {
+    },
+    {
+      "book": {
+        "title": "Harry Potter y la piedra filosofal",
+        "pages": 223,
+        "genre": "Fantasy",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550337333i/15868.jpg",
+        "synopsis": "Un niño descubre que es un mago y comienza una aventura en una escuela de magia.",
+        "year": 1997,
+        "ISBN": "978-0747532699",
+        "author": {
+          "name": "J.K. Rowling",
+          "otherBooks": [
+            "Harry Potter y la cámara secreta",
+            "Harry Potter y el prisionero de Azkaban",
+            "Harry Potter y el cáliz de fuego"
+          ]
+        }
+      }
+    },
+    {
+      "book": {
         "title": "1984",
         "pages": 328,
         "genre": "Science Fiction",
@@ -66,15 +63,13 @@
         "year": 1949,
         "ISBN": "978-0451524935",
         "author": {
-            "name": "George Orwell",
-            "otherBooks": [
-                "Rebelión en la granja"
-            ]
+          "name": "George Orwell",
+          "otherBooks": ["Rebelión en la granja"]
         }
-    }
-},
-  {
-    "book": {
+      }
+    },
+    {
+      "book": {
         "title": "Apocalipsis Zombie",
         "pages": 444,
         "genre": "Zombies",
@@ -83,85 +78,76 @@
         "year": 2001,
         "ISBN": "978-4444532611",
         "author": {
-            "name": "Manel Loreiro",
-            "otherBooks": []
+          "name": "Manel Loreiro",
+          "otherBooks": []
         }
-    }
-},
-{
-  "book": {
-      "title": "Dune",
-      "pages": 412,
-      "genre": "Science Fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
-      "synopsis": "En el inhóspito planeta desértico de Arrakis, una gran intriga política y familiar se desarrolla.",
-      "year": 1965,
-      "ISBN": "978-0441172719",
-      "author": {
-          "name": "Frank Herbert",
-          "otherBooks": [
-              "El mesías de Dune",
-              "Hijos de Dune"
-          ]
       }
-  }
-},
-{
-  "book": {
-      "title": "La Guía del Autoestopista Galáctico",
-      "pages": 216,
-      "genre": "Science Fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653311117i/6691227.jpg",
-      "synopsis": "Un viaje absurdo y cómico por el espacio, con toallas.",
-      "year": 1979,
-      "ISBN": "978-0345391803",
-      "author": {
+    },
+    {
+      "book": {
+        "title": "Dune",
+        "pages": 412,
+        "genre": "Science Fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
+        "synopsis": "En el inhóspito planeta desértico de Arrakis, una gran intriga política y familiar se desarrolla.",
+        "year": 1965,
+        "ISBN": "978-0441172719",
+        "author": {
+          "name": "Frank Herbert",
+          "otherBooks": ["El mesías de Dune", "Hijos de Dune"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "La Guía del Autoestopista Galáctico",
+        "pages": 216,
+        "genre": "Science Fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653311117i/6691227.jpg",
+        "synopsis": "Un viaje absurdo y cómico por el espacio, con toallas.",
+        "year": 1979,
+        "ISBN": "978-0345391803",
+        "author": {
           "name": "Douglas Adams",
           "otherBooks": [
-              "El restaurante del fin del mundo",
-              "La vida, el universo y todo lo demás"
+            "El restaurante del fin del mundo",
+            "La vida, el universo y todo lo demás"
           ]
+        }
       }
-  }
-},
-{
-  "book": {
-      "title": "Neuromante",
-      "pages": 271,
-      "genre": "Science Fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554437249i/6088007.jpg",
-      "synopsis": "Una visión profética de la ciber-realidad y la inteligencia artificial.",
-      "year": 1984,
-      "ISBN": "978-0441569595",
-      "author": {
+    },
+    {
+      "book": {
+        "title": "Neuromante",
+        "pages": 271,
+        "genre": "Science Fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554437249i/6088007.jpg",
+        "synopsis": "Una visión profética de la ciber-realidad y la inteligencia artificial.",
+        "year": 1984,
+        "ISBN": "978-0441569595",
+        "author": {
           "name": "William Gibson",
-          "otherBooks": [
-              "Conde Cero",
-              "Mona Lisa Acelerada"
-          ]
+          "otherBooks": ["Conde Cero", "Mona Lisa Acelerada"]
+        }
       }
-  }
-},
-{
-  "book": {
-      "title": "Fahrenheit 451",
-      "pages": 249,
-      "genre": "Science Fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383718290i/13079982.jpg",
-      "synopsis": "Una sociedad futura donde los libros están prohibidos y 'bomberos' queman cualquier libro que encuentren.",
-      "year": 1953,
-      "ISBN": "978-1451673319",
-      "author": {
+    },
+    {
+      "book": {
+        "title": "Fahrenheit 451",
+        "pages": 249,
+        "genre": "Science Fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383718290i/13079982.jpg",
+        "synopsis": "Una sociedad futura donde los libros están prohibidos y 'bomberos' queman cualquier libro que encuentren.",
+        "year": 1953,
+        "ISBN": "978-1451673319",
+        "author": {
           "name": "Ray Bradbury",
-          "otherBooks": [
-              "Crónicas marcianas",
-              "El hombre ilustrado"
-          ]
+          "otherBooks": ["Crónicas marcianas", "El hombre ilustrado"]
+        }
       }
-  }
-},
-  {
-    "book": {
+    },
+    {
+      "book": {
         "title": "El resplandor",
         "pages": 688,
         "genre": "Terror",
@@ -170,16 +156,13 @@
         "year": 1977,
         "ISBN": "978-0307743657",
         "author": {
-            "name": "Stephen King",
-            "otherBooks": [
-                "Carrie",
-                "It"
-            ]
+          "name": "Stephen King",
+          "otherBooks": ["Carrie", "It"]
         }
-    }
-},
-{
-    "book": {
+      }
+    },
+    {
+      "book": {
         "title": "Drácula",
         "pages": 418,
         "genre": "Terror",
@@ -188,16 +171,16 @@
         "year": 1897,
         "ISBN": "978-0486411095",
         "author": {
-            "name": "Bram Stoker",
-            "otherBooks": [
-                "La joya de las siete estrellas",
-                "La madriguera del gusano blanco"
-            ]
+          "name": "Bram Stoker",
+          "otherBooks": [
+            "La joya de las siete estrellas",
+            "La madriguera del gusano blanco"
+          ]
         }
-    }
-},
-{
-    "book": {
+      }
+    },
+    {
+      "book": {
         "title": "Frankenstein",
         "pages": 280,
         "genre": "Terror",
@@ -206,30 +189,808 @@
         "year": 1818,
         "ISBN": "978-0486282114",
         "author": {
-            "name": "Mary Shelley",
-            "otherBooks": [
-                "El último hombre",
-                "Valperga"
-            ]
+          "name": "Mary Shelley",
+          "otherBooks": ["El último hombre", "Valperga"]
         }
-    }
-},
-{
-  "book": {
-      "title": "La llamada de Cthulhu",
-      "pages": 43,
-      "genre": "Terror",
-      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485924654i/34094154.jpg",
-      "synopsis": "La historia de un monstruo ancestral que amenaza con revivir y dominar el mundo.",
-      "year": 1928,
-      "ISBN": "978-1542461690",
-      "author": {
+      }
+    },
+    {
+      "book": {
+        "title": "La llamada de Cthulhu",
+        "pages": 43,
+        "genre": "Terror",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485924654i/34094154.jpg",
+        "synopsis": "La historia de un monstruo ancestral que amenaza con revivir y dominar el mundo.",
+        "year": 1928,
+        "ISBN": "978-1542461690",
+        "author": {
           "name": "H.P. Lovecraft",
+          "otherBooks": ["El horror de Dunwich", "En las montañas de la locura"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Cien años de soledad",
+        "pages": 471,
+        "genre": "Realismo mágico",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327881361i/320.jpg",
+        "synopsis": "La saga de la familia Buendía en el pueblo mágico de Macondo.",
+        "year": 1967,
+        "ISBN": "978-0307474728",
+        "author": {
+          "name": "Gabriel García Márquez",
           "otherBooks": [
-              "El horror de Dunwich",
-              "En las montañas de la locura"
+            "El amor en los tiempos del cólera",
+            "Crónica de una muerte anunciada"
           ]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Crónica del pájaro que da cuerda al mundo",
+        "pages": 607,
+        "genre": "Ficción literaria",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630460042i/10569.jpg",
+        "synopsis": "Un hombre busca a su gato perdido y se ve envuelto en un misterioso viaje.",
+        "year": 1994,
+        "ISBN": "978-0679750536",
+        "author": {
+          "name": "Haruki Murakami",
+          "otherBooks": ["Kafka en la orilla", "1Q84"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "El nombre del viento",
+        "pages": 662,
+        "genre": "Fantasy",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1270352123i/186074.jpg",
+        "synopsis": "La historia de Kvothe, un músico, mago y aventurero, contada por él mismo.",
+        "year": 2007,
+        "ISBN": "978-8401337208",
+        "author": {
+          "name": "Patrick Rothfuss",
+          "otherBooks": ["El temor de un hombre sabio"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Los juegos del hambre",
+        "pages": 374,
+        "genre": "Distopía",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg",
+        "synopsis": "En un futuro distópico, adolescentes son obligados a competir en un juego televisado a muerte.",
+        "year": 2008,
+        "ISBN": "978-0439023481",
+        "author": {
+          "name": "Suzanne Collins",
+          "otherBooks": ["En llamas", "Sinsajo"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "El código Da Vinci",
+        "pages": 454,
+        "genre": "Thriller",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579621267i/968.jpg",
+        "synopsis": "Un profesor de simbología se ve envuelto en una conspiración que involucra a la Iglesia y un secreto milenario.",
+        "year": 2003,
+        "ISBN": "978-0307474278",
+        "author": {
+          "name": "Dan Brown",
+          "otherBooks": ["Ángeles y demonios", "Inferno"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Ready Player One",
+        "pages": 374,
+        "genre": "Science Fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500930947i/9969571.jpg",
+        "synopsis": "En un futuro distópico, un joven compite en un juego de realidad virtual por una fortuna.",
+        "year": 2011,
+        "ISBN": "978-0307887443",
+        "author": {
+          "name": "Ernest Cline",
+          "otherBooks": ["Ready Player Two"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "American Gods",
+        "pages": 635,
+        "genre": "Fantasy",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462924585i/30165203.jpg",
+        "synopsis": "Un exconvicto se ve envuelto en una guerra entre los viejos dioses y los nuevos.",
+        "year": 2001,
+        "ISBN": "978-0062572110",
+        "author": {
+          "name": "Neil Gaiman",
+          "otherBooks": ["Coraline", "El libro del cementerio"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "El alquimista",
+        "pages": 208,
+        "genre": "Ficción espiritual",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1466865542i/865.jpg",
+        "synopsis": "Un pastor andaluz emprende un viaje en busca de un tesoro legendario.",
+        "year": 1988,
+        "ISBN": "978-0062315007",
+        "author": {
+          "name": "Paulo Coelho",
+          "otherBooks": ["Brida", "Once minutos"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Trenza del mar esmeralda",
+        "pages": 384,
+        "genre": "Fantasy",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81vZ5YtKJxL.jpg",
+        "synopsis": "Una heroína carismática se embarca en una aventura mágica en un mundo donde los océanos están compuestos por esporas encantadas.",
+        "year": 2023,
+        "ISBN": "978-8418037603",
+        "author": {
+          "name": "Brandon Sanderson",
+          "otherBooks": ["Elantris", "El aliento de los dioses"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Las fuerzas contrarias",
+        "pages": 368,
+        "genre": "Thriller Policial",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81xXAyjGkzL.jpg",
+        "synopsis": "Durante el inicio de la pandemia, una serie de asesinatos de ancianos sacude a España. Bevilacqua y Chamorro investigan en medio del caos sanitario.",
+        "year": 2024,
+        "ISBN": "978-8423350001",
+        "author": {
+          "name": "Lorenzo Silva",
+          "otherBooks": ["El alquimista impaciente", "La marca del meridiano"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "La península de las casas vacías",
+        "pages": 480,
+        "genre": "Realismo mágico / Histórica",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81vZ5YtKJxL.jpg",
+        "synopsis": "Una novela total sobre la Guerra Civil Española en clave de realismo mágico, que ha sido galardonada con el Premio Cálamo Libro del Año 2024.",
+        "year": 2024,
+        "ISBN": "978-8419942319",
+        "author": {
+          "name": "David Uclés",
+          "otherBooks": ["Emilio y Octubre", "El llanto del león"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Los escorpiones",
+        "pages": 832,
+        "genre": "Ficción literaria / Experimental",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81xXAyjGkzL.jpg",
+        "synopsis": "Una novela monumental que entrelaza cinco historias explorando conspiraciones, tecnología y el duelo emocional en un mundo contemporáneo.",
+        "year": 2024,
+        "ISBN": "978-8426418784",
+        "author": {
+          "name": "Sara Barquinero",
+          "otherBooks": ["Estaré sola y sin fiesta", "Terminal"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Victoria",
+        "pages": 624,
+        "genre": "Drama histórico",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81vZ5YtKJxL.jpg",
+        "synopsis": "Ganadora del Premio Planeta 2024, esta novela retrata la azarosa vida de personas afectadas por las grandes decisiones políticas en el Berlín de posguerra.",
+        "year": 2024,
+        "ISBN": "978-8408295853",
+        "author": {
+          "name": "Paloma Sánchez-Garnica",
+          "otherBooks": [
+            "La sospecha de Sofía",
+            "Mi recuerdo es más fuerte que tu olvido"
+          ]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Kalpa Imperial",
+        "pages": 304,
+        "genre": "Ciencia ficción / Fantasía",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81xXAyjGkzL.jpg",
+        "synopsis": "Una colección de relatos que narran la historia del Imperio Más Vasto que Nunca Existió, con una prosa rica y evocadora.",
+        "year": 2024,
+        "ISBN": "978-8445009432",
+        "author": {
+          "name": "Angélica Gorodischer",
+          "otherBooks": ["Trafalgar", "Opus dos"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "El cementerio de los cuentos sin contar",
+        "pages": 320,
+        "genre": "Ficción literaria",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81xXAyjGkzL.jpg",
+        "synopsis": "Una novela que explora el poder de las historias no contadas y su impacto en nuestras vidas.",
+        "year": 2024,
+        "ISBN": "978-6073801234",
+        "author": {
+          "name": "Julia Navarro",
+          "otherBooks": ["Dime quién soy", "Dispara, yo ya estoy muerto"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "La asistenta",
+        "pages": 352,
+        "genre": "Thriller psicológico",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81xXAyjGkzL.jpg",
+        "synopsis": "Una asistenta doméstica se ve envuelta en oscuros secretos mientras trabaja para una familia aparentemente perfecta.",
+        "year": 2024,
+        "ISBN": "978-8413143453",
+        "author": {
+          "name": "Freida McFadden",
+          "otherBooks": ["La paciente silenciosa", "La esposa entre nosotros"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "La isla de la mujer dormida",
+        "pages": 400,
+        "genre": "Aventura / Espionaje",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81xXAyjGkzL.jpg",
+        "synopsis": "Una historia de espionaje ambientada en la Guerra Civil española, con elementos de aventura y misterio.",
+        "year": 2024,
+        "ISBN": "978-8420461236",
+        "author": {
+          "name": "Arturo Pérez-Reverte",
+          "otherBooks": ["El club Dumas", "La tabla de Flandes"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "El niño que perdió la guerra",
+        "pages": 416,
+        "genre": "Drama histórico",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81xXAyjGkzL.jpg",
+        "synopsis": "Relato de un niño que huye de la Guerra Civil española hacia la Unión Soviética, enfrentando los desafíos del exilio.",
+        "year": 2024,
+        "ISBN": "978-8408241232",
+        "author": {
+          "name": "Julia Navarro",
+          "otherBooks": ["Dime quién soy", "Dispara, yo ya estoy muerto"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Don Quijote de la Mancha",
+        "pages": 863,
+        "genre": "Clásico",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387127017i/3836.jpg",
+        "synopsis": "La historia de un hidalgo que enloquece por leer libros de caballería y decide convertirse en caballero andante.",
+        "year": 1605,
+        "ISBN": "978-8491050294",
+        "author": {
+          "name": "Miguel de Cervantes",
+          "otherBooks": ["Novelas ejemplares", "La Galatea"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Orgullo y prejuicio",
+        "pages": 279,
+        "genre": "Romance",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg",
+        "synopsis": "La historia de Elizabeth Bennet y su evolución personal en la Inglaterra del siglo XIX.",
+        "year": 1813,
+        "ISBN": "978-0141439518",
+        "author": {
+          "name": "Jane Austen",
+          "otherBooks": ["Sentido y sensibilidad", "Emma"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Crimen y castigo",
+        "pages": 671,
+        "genre": "Ficción psicológica",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382846449i/7144.jpg",
+        "synopsis": "Un joven estudiante comete un asesinato y lucha con la culpa y la redención.",
+        "year": 1866,
+        "ISBN": "978-0140449136",
+        "author": {
+          "name": "Fiódor Dostoyevski",
+          "otherBooks": ["Los hermanos Karamazov", "El idiota"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Matar a un ruiseñor",
+        "pages": 324,
+        "genre": "Ficción histórica",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657.jpg",
+        "synopsis": "Una niña observa los prejuicios raciales y la injusticia en el sur de EE.UU. durante la Gran Depresión.",
+        "year": 1960,
+        "ISBN": "978-0061120084",
+        "author": {
+          "name": "Harper Lee",
+          "otherBooks": ["Ve y pon un centinela"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "El gran Gatsby",
+        "pages": 180,
+        "genre": "Ficción clásica",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671.jpg",
+        "synopsis": "La historia de Jay Gatsby y su obsesión por Daisy Buchanan en los años 20.",
+        "year": 1925,
+        "ISBN": "978-0743273565",
+        "author": {
+          "name": "F. Scott Fitzgerald",
+          "otherBooks": [
+            "Suave es la noche",
+            "El curioso caso de Benjamin Button"
+          ]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Ulises",
+        "pages": 730,
+        "genre": "Ficción modernista",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428891345i/338798.jpg",
+        "synopsis": "Una narración compleja que sigue a Leopold Bloom durante un día en Dublín.",
+        "year": 1922,
+        "ISBN": "978-0199535675",
+        "author": {
+          "name": "James Joyce",
+          "otherBooks": ["Dublineses", "Retrato del artista adolescente"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Cumbres borrascosas",
+        "pages": 416,
+        "genre": "Romance gótico",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1425896831i/6185.jpg",
+        "synopsis": "Una historia de amor y venganza en los páramos de Yorkshire.",
+        "year": 1847,
+        "ISBN": "978-0141439556",
+        "author": {
+          "name": "Emily Brontë",
+          "otherBooks": []
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "El retrato de Dorian Gray",
+        "pages": 254,
+        "genre": "Ficción gótica",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546103428i/5297.jpg",
+        "synopsis": "Un joven vende su alma para mantener su juventud y belleza eternas.",
+        "year": 1890,
+        "ISBN": "978-0141439570",
+        "author": {
+          "name": "Oscar Wilde",
+          "otherBooks": ["El fantasma de Canterville", "De profundis"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "La metamorfosis",
+        "pages": 201,
+        "genre": "Ficción existencial",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519624931i/485894.jpg",
+        "synopsis": "Un hombre se despierta transformado en un insecto gigante.",
+        "year": 1915,
+        "ISBN": "978-0140187472",
+        "author": {
+          "name": "Franz Kafka",
+          "otherBooks": ["El proceso", "El castillo"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "El guardián entre el centeno",
+        "pages": 277,
+        "genre": "Ficción contemporánea",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg",
+        "synopsis": "La historia de Holden Caulfield y su viaje por Nueva York tras ser expulsado de la escuela.",
+        "year": 1951,
+        "ISBN": "978-0316769488",
+        "author": {
+          "name": "J.D. Salinger",
+          "otherBooks": ["Franny y Zooey", "Nueve cuentos"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Los miserables",
+        "pages": 1232,
+        "genre": "Ficción histórica",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327878125i/24280.jpg",
+        "synopsis": "La vida de Jean Valjean, un exconvicto que busca redimirse en la Francia del siglo XIX.",
+        "year": 1862,
+        "ISBN": "978-0451419439",
+        "author": {
+          "name": "Victor Hugo",
+          "otherBooks": ["Nuestra Señora de París", "El hombre que ríe"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "El conde de Montecristo",
+        "pages": 1276,
+        "genre": "Aventura",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309203605i/7126.jpg",
+        "synopsis": "Un hombre es traicionado y busca venganza tras escapar de prisión.",
+        "year": 1844,
+        "ISBN": "978-0140449266",
+        "author": {
+          "name": "Alexandre Dumas",
+          "otherBooks": ["Los tres mosqueteros", "Veinte años después"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "La isla del tesoro",
+        "pages": 311,
+        "genre": "Aventura",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327878912i/295.jpg",
+        "synopsis": "Un joven se embarca en una peligrosa aventura en busca de un tesoro pirata.",
+        "year": 1883,
+        "ISBN": "978-0140437683",
+        "author": {
+          "name": "Robert Louis Stevenson",
+          "otherBooks": [
+            "El extraño caso del Dr. Jekyll y Mr. Hyde",
+            "Secuestrado"
+          ]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "El dragón negro",
+        "pages": 352,
+        "genre": "Thriller",
+        "cover": "https://imagessite.com/eldragonnegro.jpg",
+        "synopsis": "Una inspectora se enfrenta a una triada china tras una matanza que parece un ajuste de cuentas.",
+        "year": 2025,
+        "ISBN": "978-8408271239",
+        "author": {
+          "name": "Fernando Benzo",
+          "otherBooks": ["Los perseguidos", "Nunca fuimos héroes"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Las líneas del silencio",
+        "pages": 320,
+        "genre": "Ficción histórica",
+        "cover": "https://imagessite.com/laslineasdelsilencio.jpg",
+        "synopsis": "Una novela que recupera relatos de memoria histórica, con el mar como escenario principal.",
+        "year": 2025,
+        "ISBN": "978-8412345678",
+        "author": {
+          "name": "Francisco Piniella",
+          "otherBooks": []
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "La felicidad",
+        "pages": 280,
+        "genre": "Psicología",
+        "cover": "https://imagessite.com/lafelicidad.jpg",
+        "synopsis": "Una mirada crítica acerca de la felicidad en estos tiempos modernos.",
+        "year": 2024,
+        "ISBN": "978-9504971234",
+        "author": {
+          "name": "Gabriel Rolón",
+          "otherBooks": ["El precio de la pasión", "Los padecientes"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "¡Mártir!",
+        "pages": 400,
+        "genre": "Ficción contemporánea",
+        "cover": "https://imagessite.com/martir.jpg",
+        "synopsis": "La historia de Cyrus, un iraní-estadounidense que lucha contra la depresión y la adicción.",
+        "year": 2024,
+        "ISBN": "978-0525658912",
+        "author": {
+          "name": "Kaveh Akbar",
+          "otherBooks": []
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Cuéntamelo todo",
+        "pages": 256,
+        "genre": "Ficción literaria",
+        "cover": "https://imagessite.com/cuentamelotodo.jpg",
+        "synopsis": "Una novela que explora la dificultad de expresar sentimientos y la coexistencia de maldad y bondad.",
+        "year": 2025,
+        "ISBN": "978-8439734567",
+        "author": {
+          "name": "Elizabeth Strout",
+          "otherBooks": ["Me llamo Lucy Barton", "Olive Kitteridge"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "A afogada",
+        "pages": 310,
+        "genre": "Misterio",
+        "cover": "https://imagessite.com/aafogada.jpg",
+        "synopsis": "La desaparición de Laura Suárez en la playa de Riazor levanta sospechas sobre un posible crimen.",
+        "year": 2025,
+        "ISBN": "978-8491234567",
+        "author": {
+          "name": "Rocío Leira",
+          "otherBooks": []
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "El loco Dios en el fin del mundo",
+        "pages": 340,
+        "genre": "Ficción contemporánea",
+        "cover": "https://imagessite.com/ellocodios.jpg",
+        "synopsis": "Una novela que se ha colado entre las más vendidas por su narrativa impactante.",
+        "year": 2025,
+        "ISBN": "978-8420434567",
+        "author": {
+          "name": "Javier Cercas",
+          "otherBooks": ["Soldados de Salamina", "Anatomía de un instante"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "La muy catastrófica visita al zoo",
+        "pages": 280,
+        "genre": "Ficción juvenil",
+        "cover": "https://imagessite.com/lamuycatastrófica.jpg",
+        "synopsis": "Una novela apta para todos los públicos, recomendada desde los 7 hasta los 120 años.",
+        "year": 2025,
+        "ISBN": "978-8412345678",
+        "author": {
+          "name": "Joël Dicker",
+          "otherBooks": [
+            "La verdad sobre el caso Harry Quebert",
+            "El enigma de la habitación 622"
+          ]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "La editorial del Señor Bennet",
+        "pages": 300,
+        "genre": "Ficción contemporánea",
+        "cover": "https://imagessite.com/laeditorialdelsenorbennet.jpg",
+        "synopsis": "Una historia encantadora sobre libros, lectores y el amor por la literatura.",
+        "year": 2025,
+        "ISBN": "978-8420434567",
+        "author": {
+          "name": "Mónica Gutiérrez",
+          "otherBooks": [
+            "Un hotel en ninguna parte",
+            "La librería del señor Livingstone"
+          ]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Por si un día volvemos",
+        "pages": 360,
+        "genre": "Ficción contemporánea",
+        "cover": "https://imagessite.com/porsiunidiavolvemos.jpg",
+        "synopsis": "Una novela que explora las relaciones humanas y los reencuentros inesperados.",
+        "year": 2025,
+        "ISBN": "978-8408299592",
+        "author": {
+          "name": "María Dueñas",
+          "otherBooks": ["El tiempo entre costuras", "Las hijas del capitán"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Empire of the Damned",
+        "pages": 672,
+        "genre": "Fantasy",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81x+u+K9z8L.jpg",
+        "synopsis": "La secuela de 'Empire of the Vampire', donde Gabriel de León continúa su lucha contra los vampiros en un mundo oscuro y brutal.",
+        "year": 2024,
+        "ISBN": "978-1250857415",
+        "author": {
+          "name": "Jay Kristoff",
+          "otherBooks": ["Empire of the Vampire", "Nevernight"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "The Familiar",
+        "pages": 480,
+        "genre": "Fantasy",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81c5Yk6ZzML.jpg",
+        "synopsis": "Una historia mágica ambientada en un mundo donde los lazos familiares y la hechicería se entrelazan de manera inesperada.",
+        "year": 2024,
+        "ISBN": "978-1250857439",
+        "author": {
+          "name": "Leigh Bardugo",
+          "otherBooks": ["Shadow and Bone", "Six of Crows"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "The Ministry of Time",
+        "pages": 400,
+        "genre": "Science Fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71X7ZzR1x2L.jpg",
+        "synopsis": "Una exploración del tiempo y la identidad en una narrativa que desafía las convenciones del viaje temporal.",
+        "year": 2024,
+        "ISBN": "978-1668000844",
+        "author": {
+          "name": "Kaliane Bradley",
+          "otherBooks": []
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "You Like It Darker",
+        "pages": 512,
+        "genre": "Horror",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81z5Pz5N5sL.jpg",
+        "synopsis": "Una colección de cuentos oscuros y perturbadores que exploran los rincones más sombríos de la mente humana.",
+        "year": 2024,
+        "ISBN": "978-1668002176",
+        "author": {
+          "name": "Stephen King",
+          "otherBooks": ["It", "The Shining"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "First Lie Wins",
+        "pages": 368,
+        "genre": "Thriller",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71Z0Xz5N5sL.jpg",
+        "synopsis": "Una mujer con un pasado oscuro se ve atrapada en una red de mentiras y secretos que amenazan con destruirla.",
+        "year": 2024,
+        "ISBN": "978-0593186715",
+        "author": {
+          "name": "Ashley Elston",
+          "otherBooks": ["The Rules for Disappearing"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "The God of the Woods",
+        "pages": 432,
+        "genre": "Mystery",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81x5Yk6ZzML.jpg",
+        "synopsis": "Un misterio envolvente ambientado en un campamento de verano donde una desaparición revela oscuros secretos familiares.",
+        "year": 2024,
+        "ISBN": "978-0593186722",
+        "author": {
+          "name": "Liz Moore",
+          "otherBooks": ["Long Bright River"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "The Saint of Bright Doors",
+        "pages": 416,
+        "genre": "Fantasy",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71Z0Xz5N5sL.jpg",
+        "synopsis": "Una narrativa épica que sigue a un joven destinado a cambiar el mundo mientras lucha contra fuerzas oscuras.",
+        "year": 2024,
+        "ISBN": "978-1250857446",
+        "author": {
+          "name": "Vajra Chandrasekera",
+          "otherBooks": []
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "The Book That Broke the World",
+        "pages": 384,
+        "genre": "Fantasy",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81c5Yk6ZzML.jpg",
+        "synopsis": "Un libro prohibido que contiene secretos capaces de desatar el caos en un mundo ya al borde de la destrucción.",
+        "year": 2024,
+        "ISBN": "978-1250857453",
+        "author": {
+          "name": "Mark Lawrence",
+          "otherBooks": ["Prince of Thorns", "Red Sister"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "The Mercy of Gods",
+        "pages": 480,
+        "genre": "Science Fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71X7ZzR1x2L.jpg",
+        "synopsis": "Una exploración profunda de la humanidad y la divinidad en un universo donde los dioses no siempre son benevolentes.",
+        "year": 2024,
+        "ISBN": "978-0316668725",
+        "author": {
+          "name": "James S.A. Corey",
+          "otherBooks": ["Leviathan Wakes", "Caliban's War"]
+        }
+      }
+    },
+    {
+      "book": {
+        "title": "Emily Wilde's Map of the Otherlands",
+        "pages": 352,
+        "genre": "Fantasy",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81x5Yk6ZzML.jpg",
+        "synopsis": "La profesora Emily Wilde se embarca en una nueva aventura para cartografiar tierras mágicas desconocidas.",
+        "year": 2024,
+        "ISBN": "978-0593186739",
+        "author": {
+          "name": "Heather Fawcett",
+          "otherBooks": ["Emily Wilde's Encyclopaedia of Faeries"]
+        }
       }
     }
-  }
-]}
+  ]
+}

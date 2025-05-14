@@ -16,13 +16,12 @@ export default function FilterProvider( { children }: { children: React.ReactNod
     })
 
     const filterData = (genre: string) => {
-        console.log("Este es el genero", genre)
         if(genre === "All") {
-            setFilter((prevState) => ({...prevState, bookList: library, availableGenreBooks: library.length}))
+            setFilter((prevState) => ({...prevState, bookList: library, availableGenreBooks: library.length, availableBooks: library.length}))
             return
         }
         const filteredBooks = library.filter(lib => lib.book.genre === genre)
-        setFilter(( prevState) => ({...prevState, bookList: filteredBooks, availableGenreBooks: filteredBooks.length}))
+        setFilter(( prevState) => ({...prevState, bookList: filteredBooks, availableGenreBooks: filteredBooks.length, availableBooks: filteredBooks.length}))
     }
 
     return (
