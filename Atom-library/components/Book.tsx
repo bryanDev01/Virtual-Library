@@ -4,10 +4,12 @@ import { ShoppingBag } from "lucide-react";
 import Image from "next/image";
 import { useBookContext } from "@/hooks/useBookContext";
 import { useFilterContext } from "@/hooks/useFilterContext";
+import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 
 function Book() {
   const { addBook, selectedBooks } = useBookContext();
-  const { filter } = useFilterContext()
+  const { filter } = useFilterContext();
+  const scrollRef = useScrollAnimation();
 
   const handleAddClick = (title: string) => {
     const added = filter.bookList.find((lib) => lib.book.title === title);
@@ -17,7 +19,10 @@ function Book() {
   };
 
   return (
-    <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 py-4">
+    <ul
+      ref={scrollRef}
+      className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 py-4"
+    >
       {filter.bookList.map((lib) => (
         <li
           key={lib.book.title}
