@@ -18,7 +18,7 @@ function BookList() {
   };
 
   return (
-    <section className="fixed top-4 right-4 z-50">
+    <section className="fixed bottom-4 right-4 md:top-4 md:bottom-auto z-50">
       <div className="relative">
         <button
           onClick={handleShowClick}
@@ -34,7 +34,7 @@ function BookList() {
         </button>
 
         {isShowed && (
-          <div className="absolute top-full right-0 mt-2 w-80 bg-slate-900/95 backdrop-blur-sm rounded-lg shadow-xl border border-slate-700/50 overflow-hidden">
+          <div className="absolute bottom-full md:bottom-auto md:top-full right-0 mb-2 md:mt-2 w-[calc(100vw-2rem)] sm:w-80 bg-slate-900/95 backdrop-blur-sm rounded-lg shadow-xl border border-slate-700/50 overflow-hidden">
             <div className="p-4 border-b border-slate-700/50">
               <h2 className="text-lg font-semibold text-white flex items-center gap-2">
                 <AtomIcon className="w-5 h-5 text-indigo-400" />
